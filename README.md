@@ -1,0 +1,1 @@
+# js-prettier-loader
