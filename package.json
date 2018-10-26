@@ -1,0 +1,29 @@
+{
+  "name": "js-prettier-loader",
+  "version": "0.0.1",
+  "description": "A JavaScript Prettier Loader for Webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouzhonghao/js-prettier-loader.git"
+  },
+  "keywords": [
+    "Webpack"
+  ],
+  "author": "zhouzhonghao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhouzhonghao/js-prettier-loader/issues"
+  },
+  "homepage": "https://github.com/zhouzhonghao/js-prettier-loader#readme",
+  "devDependencies": {
+    "prettier": "^1.14.3",
+    "webpack": "^4.23.1"
+  },
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  }
+}
